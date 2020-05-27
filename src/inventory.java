@@ -8,11 +8,12 @@ import java.util.logging.Logger;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
+//why don't you add a function that allows the user to import a text file containing
+// existing items, that way you can cross off number 9
 /**
  * @author kalpj
  */
-public class INVENTORY extends javax.swing.JFrame {
+public class INVENTORY extends javax.swing.JFrame /*inheritance*/{
 
     public int j;
     public Connection conn;
